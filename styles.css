@@ -1,0 +1,65 @@
+body{
+	width:1500px;
+	color:#838892;
+}
+.garnier {
+	width:300px;
+}
+.opera-paris {
+	width:800px
+}
+.rouge {
+	color:red
+}
+p{
+	line-height:150%;
+	text-indent:5px;
+	font-size:20px;
+	font-weight:normal;
+}
+h2 {
+	font-weight:normal;
+}
+h3 {
+	font-weight:normal;
+}
+.plafond {
+	width:700px
+}
+.spectacle {
+	width:700px
+}
+.escalier {
+	width:700px
+}
+.foyer {
+	width:700px
+}
+.facade {
+	width:1000px
+}
+.italic {
+	font-style:italic;
+}
+.lien {
+	line-height:150%;
+	text-indent:5px;
+	font-size:20px;
+	font-weight:normal;
+}
+#special {
+	color:red;
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+	margin:20px 0;
+}
+th, td {
+	border:1px solid #ddd;
+	padding:12px;
+	text-align:center;
+}
+.tableau {
+	width:500px
+}
